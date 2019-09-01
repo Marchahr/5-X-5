@@ -2,19 +2,26 @@
 
 
 a { font-family: 'Roboto';}
-.websitemenu { size:60;}
+.websitemenu { size:75;}
   .websitemenu a:link {color: Black; text-decoration:none;}
   .websitemenu a:visited {color:gray;}
   .websitemenu a:hover {color:tan;}
 
 * {
   box-sizing: border-box;
+
+
 }
 
-body {
+h1{
+  /*ext-align: center;*/
+  size:100%;
+}
+
+/*body {
   margin: 0;
   font-family: Arial;
-}
+}*/
 
 .header {
   text-align: center;
@@ -59,4 +66,8 @@ body {
     flex: 100%;
     max-width: 100%;
   }
+}
+
+iframe{
+  <position: "center">
 }
