@@ -10,8 +10,10 @@ a { font-family: 'Roboto';}
 * {
   box-sizing: border-box;
 
+/*body{
+  background-image: url("img/taco.jpg");
 
-}
+}*/
 
 h1{
   /*ext-align: center;*/
