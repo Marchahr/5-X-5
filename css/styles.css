@@ -17,6 +17,9 @@ a { font-family: 'Roboto';}
 body {
   font-family: 'Roboto'
   background-image: url("img/taco.jpg");
+  padding-left: 55px;
+  padding-right: 55px;
+
 
 }
 
